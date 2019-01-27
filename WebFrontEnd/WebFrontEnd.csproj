@@ -126,6 +126,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Domain.cs" />
+    <Compile Include="Controllers\BookingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -168,6 +170,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Booking\Bookings.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -185,6 +188,20 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Edument.CQRS\Edument.CQRS.csproj">
+      <Project>{D2BAB57D-225D-4F4C-9410-ED39495A8FE0}</Project>
+      <Name>Edument.CQRS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HolidayInnReadModel\HolidayInnReadModel.csproj">
+      <Project>{11B80325-277D-465D-8ABB-9EF6D2519BF2}</Project>
+      <Name>HolidayInnReadModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HolidayInn\HolidayInn.csproj">
+      <Project>{42FE290D-7A80-451B-AC4F-A7B34B3B3D3B}</Project>
+      <Name>HolidayInn</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

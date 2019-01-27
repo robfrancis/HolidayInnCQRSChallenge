@@ -77,3 +77,15 @@ C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\obj\Debug\W
 C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\obj\Debug\WebFrontEnd.csproj.CopyComplete
 C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\obj\Debug\WebFrontEnd.dll
 C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\obj\Debug\WebFrontEnd.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\HolidayInn.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\HolidayInnReadModel.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\nunit.framework.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\Events.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\HolidayInnReadModel.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\HolidayInn.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\nunit.framework.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\nunit.framework.xml
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\bin\Events.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\WebFrontEnd\obj\Debug\WebFrontEnd.csprojAssemblyReference.cache
