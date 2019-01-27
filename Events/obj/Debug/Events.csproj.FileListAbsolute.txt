@@ -1,0 +1,12 @@
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\Events.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\Events.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\nunit.framework.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\nunit.framework.xml
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\obj\Debug\Events.csproj.CopyComplete
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\obj\Debug\Events.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\obj\Debug\Events.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Events\bin\Debug\nunit.framework.pdb

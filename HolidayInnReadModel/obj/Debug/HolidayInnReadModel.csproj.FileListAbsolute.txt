@@ -1,0 +1,14 @@
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\HolidayInnReadModel.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\HolidayInnReadModel.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\Events.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\nunit.framework.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\Events.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\nunit.framework.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\bin\Debug\nunit.framework.xml
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\obj\Debug\HolidayInnReadModel.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\obj\Debug\HolidayInnReadModel.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\obj\Debug\HolidayInnReadModel.csproj.CopyComplete
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\obj\Debug\HolidayInnReadModel.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\HolidayInnReadModel\obj\Debug\HolidayInnReadModel.pdb

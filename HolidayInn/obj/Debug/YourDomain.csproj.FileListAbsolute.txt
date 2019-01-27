@@ -1,0 +1,14 @@
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\YourDomain.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\YourDomain.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\Events.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\nunit.framework.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\Events.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\nunit.framework.xml
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\obj\Debug\YourDomain.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\obj\Debug\YourDomain.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\obj\Debug\YourDomain.csproj.CopyComplete
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\obj\Debug\YourDomain.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\obj\Debug\YourDomain.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\YourDomain\bin\Debug\nunit.framework.pdb

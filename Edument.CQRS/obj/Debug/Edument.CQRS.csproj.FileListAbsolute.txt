@@ -1,0 +1,9 @@
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\bin\Debug\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\bin\Debug\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\bin\Debug\nunit.framework.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\bin\Debug\nunit.framework.xml
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\obj\Debug\Edument.CQRS.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\obj\Debug\Edument.CQRS.csproj.CopyComplete
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\obj\Debug\Edument.CQRS.dll
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\obj\Debug\Edument.CQRS.pdb
+C:\Users\Rob\Desktop\cqrs-starter-kit-master\starter-kit\Edument.CQRS\bin\Debug\nunit.framework.pdb
