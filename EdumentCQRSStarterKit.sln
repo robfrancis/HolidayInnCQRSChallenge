@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayInnTests", "HolidayI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayInnReadModel", "HolidayInnReadModel\HolidayInnReadModel.csproj", "{11B80325-277D-465D-8ABB-9EF6D2519BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFrontEnd", "WebFrontEnd\WebFrontEnd.csproj", "{F7900E86-B102-4014-A33E-11371FD6A606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{11B80325-277D-465D-8ABB-9EF6D2519BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11B80325-277D-465D-8ABB-9EF6D2519BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11B80325-277D-465D-8ABB-9EF6D2519BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7900E86-B102-4014-A33E-11371FD6A606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7900E86-B102-4014-A33E-11371FD6A606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7900E86-B102-4014-A33E-11371FD6A606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7900E86-B102-4014-A33E-11371FD6A606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

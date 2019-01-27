@@ -45,9 +45,7 @@
   <ItemGroup>
     <Compile Include="Booking\BookingMade.cs" />
     <Compile Include="Booking\BookingCancelled.cs" />
-    <Compile Include="Booking\Shared.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Something\SomethingHappened.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Edument.CQRS\Edument.CQRS.csproj">
